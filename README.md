@@ -1,5 +1,6 @@
 # prototypes
 Prototypes from Rapid Prototyping course at Campus Gotland: Game Design 6 - Experimental Game Design
+Files can be downloaded from the Releases section in GitHub (ignore source files)  
 
 Credits:  
   
